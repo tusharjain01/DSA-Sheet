@@ -3,11 +3,14 @@ using namespace std;
 
 int main()
 {
-    int a = 3, b = 6;
+    int a=3;
+    int b=6;
+    cout<<a<<" "<<b<<endl;
 
-    a = a ^ b;
-    b = a ^ b;
-    a = a ^ b;
+    b=a+b;
+    a=b-a;
+    b=b-a;
 
     cout<<a<<" "<<b;
+
 }
