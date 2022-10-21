@@ -1,4 +1,4 @@
-# DSA-Sheet
+# DSA-Sheet C++ Only
 
 # 🎃 Hacktoberfest2022-DSA 💻
 
